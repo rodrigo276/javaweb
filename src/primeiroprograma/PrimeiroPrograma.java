@@ -25,7 +25,7 @@ public class PrimeiroPrograma {
        int numero1 = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite seu segundo numero: "));
         
        int resultado = numero   * numero1;
-               
+               System.out.println("rodrigo");
                
                
                
