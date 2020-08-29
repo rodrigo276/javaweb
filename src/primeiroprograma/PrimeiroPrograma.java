@@ -26,6 +26,7 @@ public class PrimeiroPrograma {
         
        int resultado = numero   * numero1;
                System.out.println("rodrigo");
+               System.out.println("agora sim");
                
                
                
